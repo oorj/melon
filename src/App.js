@@ -1,24 +1,29 @@
-import logo from './logo.svg';
+import { Container } from 'react-bootstrap';
 import './App.css';
+import Navmenu from './component/Navmenu';
+import { Routes, Route } from 'react-router-dom'
+import ContactForm from './component/ContactForm';
+import ProductAll from './page/ProductAll';
+import Login from './page/Login';
+import Ticket from './page/Ticket';
+import ProdcutDetail from './page/ProdcutDetail'
+import ProductList from './page/ProductList';
+import ProductCard from './component/ProductCard';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container>
+      <ContactForm/>
+      <Navmenu />
+      <Routes>
+        <Route path='/' element={<ProductAll/>}></Route>
+        <Route path='/login' element={<Login/>}></Route>
+        <Route path='/products/:id' element={<ProdcutDetail />}></Route>
+        <Route path='/ticket' element={<Ticket/>}></Route>
+        <Route path='/list' element={<ProductList/>}></Route>
+        <Route path='/card' element={<ProductCard/>}></Route>
+      </Routes>
+    </Container>
   );
 }
 

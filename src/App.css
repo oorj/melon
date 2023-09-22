@@ -1,38 +1,52 @@
-.App {
-  text-align: center;
+body{font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;}
+.container{
+  margin: 0; 
+  padding: 0; 
+  max-width: 100%;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container > a img{margin-left: 460px;}
+.navbar-expand .navbar-nav{
+  position: absolute; 
+  left: 50%; 
+  transform: translateX(-50%);
+  margin-top: 30px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navbar-expand .navbar-nav .nav-link{
+  display: block;
+  margin-right: 25px;
+  font-weight: 700;
+  color: black;
+  font-size: 16px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.search{position: absolute; left: 50%;  top: 40px; transform: translateX(-50%);}
+.search img{
+  width: 24px; height: 24px;
+  position: absolute;
+  right: 20px; top: 7px;
 }
-
-.App-link {
-  color: #61dafb;
+.search input{
+  border: 2px solid #00CD3C;
+  border-radius: 50px;
+  width: 300px;
+  padding: 5px 0;
+  outline: none;
+  font-size: 16px;
+  padding-left: 15px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.product-list{cursor: pointer; }
+.product-list .title{margin-top: 20px; font-weight: 800;}
+.product-list .name{margin: 10px 0;}
+.row{margin-left: 75px;}
+.col-lg-3{width: 350px; margin-top: 80px;}
+.col-lg-3 img{width: 100%;}
+.product-detail.row{margin: 0 auto; margin-top: 80px;}
+.row.img.row {max-width: 100%;}
+.col div{margin-bottom: 10px}
+.col .title{font-size: 28px; font-weight: 700;}
+.col .title span{font-weight: 500;}
+.col .name{font-size: 20px; font-weight: 500;}
+.product-detail.row{width: 1000px;}
+.productDetail-img.col img{
+  text-align: right;
+  width: 100%;
 }

@@ -1,0 +1,104 @@
+{
+    "products":[
+        {
+            "id":0,
+            "img":"https://cdnimg.melon.co.kr/cm2/album/images/113/30/073/11330073_20230920145704_1000.jpg?33d943c1dafbdaa7f59ca22872c0abef/melon/quality/80/optimize",
+            "title":"사랑이 또",
+            "name": "유림",
+            "day": "2023.09.21",
+            "company":"지니뮤직",
+            "enter":"㈜원탑엔터테인먼트",
+            "text":"마이너발라드의 깊은 울림을 선사할 노래를 가지고 대중에게 다시 돌아왔다."
+        },
+        {
+            "id":1,
+            "img":"https://cdnimg.melon.co.kr/cm2/album/images/113/30/118/11330118_20230920155959_1000.jpg?ef92403850568579f14d5ed2a7958024/melon/quality/80/optimize",
+            "title":"2024 부산세계탁구선수권대회 공식 주제가",
+            "name": "임시완, 윈터",
+            "day": "2023.09.21",
+            "company":"대한탁구협회",
+            "enter":"카카오엔터테인먼트",
+            "text":"임시완 & 에스파의 윈터 (WINTER)가 듀엣으로 참여한2024 부산세계탁구선수권대회 공식 주제가 Win For You 9월 21일 공개! 오케스트라 사운드와 K-POP이 결합된 새로운 형태의 ANTHEM! 대한탁구협회가 2024 부산세계탁구선수권대회 공식 주제가 Win For You를 9월 21일 공개한다."
+        },
+        {
+            "id":2,
+            "img":"https://cdnimg.melon.co.kr/cm2/album/images/113/30/092/11330092_20230920151112_1000.jpg?a80d19fd95829778cbf31b0cf4edf633/melon/quality/80/optimize",
+            "title":"With You (사내연애 사절! X Young K (DAY6))",
+            "name": "Young K (DAY6)",
+            "day": "2023.09.21",
+            "company":"㈜뮤직앤뉴",
+            "enter":"㈜뮤직앤뉴",
+            "text": "<유일무이 로맨스> 두부 작가 X <바른연애 길잡이> 남수 작가의 만남! 로맨스 장인들의 믿고 보는 오피스 로맨스 <사내연애 사절!> DAY6(데이식스) Young K(영케이)가 네이버웹툰 ‘사내연애 사절!’ OST에 참여한다."
+        },
+        {
+            "id":3,
+            "img":"https://cdnimg.melon.co.kr/cm2/album/images/113/28/936/11328936_20230918160704_500.jpg?886a5ef9db76a6b335f88d9a60bd6b99/melon/resize/282/quality/80/optimize",
+            "title":"스물아홉",
+            "name": "스탠딩 에그",
+            "day": "2023.09.19",
+            "company":"에그뮤직",
+            "enter":"카카오엔터테인먼트",
+            "text": "인디 뮤지션 스탠딩 에그입니다. 넉 달 만에 신곡 '스물아홉'을 발표하게 됐습니다. 이 노래는 이 시대의 청춘, 그리고 여전히 삶에 서툰 모든 이들에게 위로와 응원을 전하고 싶다는 마음에서 시작되었습니다."
+        },
+        {
+            "id":4,
+            "img":"https://image.bugsm.co.kr/album/images/1000/40909/4090903.jpg",
+            "title":"그대",
+            "name": "김필",
+            "day": "2023.09.19",
+            "company":"NHN벅스",
+            "enter":"아카이브아침",
+            "text": "사랑하는 그대에게"
+        },
+        {
+            "id":5,
+            "img":"https://image.bugsm.co.kr/album/images/1000/204918/20491854.jpg",
+            "title":"나만 놓으면 끝인 사이",
+            "name": "유후",
+            "day": "2023.09.09",
+            "company":"유후뮤직",
+            "enter":"퍼플파인 엔터테인먼트",
+            "text": "서로 마음의 무게가 다르다는 건 참 슬픈 일이지만, 내가 마음껏 사랑했다면 후회는 상대방의 몫이겠죠. 누구나 한 번쯤은 겪어봤을 이 이야기가 위로가 되길 바랍니다."
+        },
+        {
+            "id":6,
+            "img":"https://image.bugsm.co.kr/album/images/1000/40903/4090354.jpg",
+            "title":"Love Lee",
+            "name": "AKMU (악뮤)",
+            "day": "2023.08.21",
+            "company":"YG PLUS",
+            "enter":"YG Entertainment",
+            "text": "이번 앨범은 청량하고 밝은 에너지를 담은 ‘Love Lee', 위로와 공감이 될 수 있는 가사가 돋보이는 ‘후라이의 꿈' 두 곡이 수록되었으며 누구나 쉽게 접할 수 있는 소재를 AKMU만의 톡톡 튀는 감성으로 풀어내었다."
+        },
+        {
+            "id":7,
+            "img":"https://image.bugsm.co.kr/album/images/1000/40882/4088290.jpg",
+            "title":"Still With You",
+            "name": "정국",
+            "day": "2020.06.05",
+            "company":"YG PLUS",
+            "enter":"BIGHIT MUSIC",
+            "text": "이별 후 여자친구를 그리워하는 마음을 담아낸 노래로 정국의 목소리가 더욱 더 슬프게 만듭니다."
+        },
+        {
+            "id":8,
+            "img":"https://cdnimg.melon.co.kr/cm2/album/images/113/03/638/11303638_20230811103847_1000.jpg?92b308988cd1521e8bd4d9c2f56768ed/melon/quality/80/optimize",
+            "title":"Layover",
+            "name": "V",
+            "day": "2023.09.08",
+            "company":"YG PLUS",
+            "enter":"BIGHIT MUSIC",
+            "text": "뷔가 가진 음색과 본연의 색깔로 채워진, 그야말로 '뷔' 그 자체에 집중한 앨범이 탄생했다."
+        },
+        {
+            "id":9,
+            "img":"https://image.bugsm.co.kr/album/images/1000/40734/4073469.jpg",
+            "title":"사건의 지평선",
+            "name": "윤하",
+            "day": "2022.03.30",
+            "company":"C9 Entertainment",
+            "enter":"카카오엔터테인먼트",
+            "text":"우리가 사는 세상, 우리가 사는 우주,   그리고 그 너머의 공간에.   우주에는 수억 개의 은하수와 수조 개의 별이 있다고 하지만 우리는 그저 바라볼 수밖에 없습니다.   우주에는 우리밖에 없는 걸까요?   가장 먼 우주에는 무엇이 있을까요?   사건의 지평선 너머에서는 어떤 일이 일어날까요?   알 수 없고 막연한 우주를 음악으로 풀어낸 우주 음악 앨범을 소개합니다."
+        }
+    ]
+}
